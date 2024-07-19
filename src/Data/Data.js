@@ -1,0 +1,68 @@
+export const data = [
+    {
+        id: 1,
+        title: 'Wireless Mouse',
+        price: 25.99,
+        image: ' https://rukminim2.flixcart.com/image/850/1000/xif0q/mouse/3/1/t/dash-2-4ghz-wireless-bluetooth-5-1-mouse-dual-mode-slim-original-imagvwthxhgxtjt6.jpeg?q=90&crop=false',
+        category: 'Electronics',
+        description: 'Ergonomic wireless mouse with adjustable DPI settings and USB receiver.',
+    },
+    {
+        id: 2,
+        title: 'Bluetooth Headphones',
+        price: 59.99,
+        image: 'https://m.media-amazon.com/images/I/61otYZ1ZA9L._AC_UF894,1000_QL80_.jpg',
+        category: 'Electronics',
+        description: 'Over-ear Bluetooth headphones with noise cancellation and 20-hour battery life.',
+    },
+    {
+        id: 3,
+        title: 'Gaming Keyboard',
+        price: 89.99,
+        image: 'https://resource.logitechg.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/pro-keyboard/pro-clicky-gallery-1.png?v=1',
+        category: 'Computers',
+        description: 'Mechanical gaming keyboard with RGB backlighting and programmable keys.',
+    },
+    {
+        id: 4,
+        title: 'Stainless Steel Water Bottle',
+        price: 19.99,
+        image: 'https://theimprint.sg/cdn/shop/products/TumblerPink.jpg?v=1711365886&width=1080',
+        category: 'Home & Kitchen',
+        description: 'Insulated stainless steel water bottle with 24-hour cold and 12-hour hot retention.',
+    },
+    {
+        id: 5,
+        title: 'Yoga Mat',
+        price: 29.99,
+        image: 'https://m.media-amazon.com/images/I/71GMoa6iKEL._AC_UF894,1000_QL80_.jpg',
+        category: 'Sports & Outdoors',
+        description: 'Eco-friendly non-slip yoga mat with carrying strap and 1/4 inch thickness.',
+    },
+    {
+        id: 6,
+        title: 'Smart Watch',
+        price: 199.99,
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu3aRXsDic7BPrAJAPdlxz4yJhrnXPoAF6jA&s',
+        category: 'Electronics',
+        description: 'Smart watch with heart rate monitor, GPS, and fitness tracking.',
+    },
+    {
+        id: 7,
+        title: 'Electric Kettle',
+        price: 34.99,
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbHsmkq9DyNQwEUhdlXxRHUkU_Kiwtiye-UQ&s',
+        category: 'Home & Kitchen',
+        description: '1.7L electric kettle with auto shut-off and boil-dry protection.',
+    },
+    {
+        id: 8,
+        title: 'Camping Tent',
+        price: 149.99,
+        image: 'https://i5.walmartimages.com/seo/Magshion-Foldable-Camping-Tent-Family-Tent-2-Rooms-5-8-Person-Large-3-Doors-Camping-Waterproof-Double-Layer-Picnic-Survival-Hiking-Traveling-Blue_c2bc4097-2f59-413f-b383-69311d672d65.28b42e0684400f5319d3184b1db4f052.png',
+        category: 'Sports & Outdoors',
+        description: '4-person camping tent with waterproof rainfly and easy setup.',
+    },
+  
+    
+];
